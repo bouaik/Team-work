@@ -6,3 +6,8 @@ img
 	height: 100px;
 	width: 100px;
 }
+p
+{
+	color: red;
+	background-image: black;
+}
